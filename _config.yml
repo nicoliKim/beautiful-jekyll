@@ -27,6 +27,7 @@ navbar-links:
   CV: "cv"
   Projects:  
      - "project"
+     - "project2"
   Resources:
     - ML - IDA group: "http://www.ml.tu-berlin.de/menue/machine_learning/"
     - Nicoli Sport: "http://nicolisport.weebly.com/"
