@@ -1,7 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: More information about me will come soon...
+subtitle: The story of an athlete who became a Theorethical Physicist and now works as a computer scientist while aiming to become a Chef...
 ---
 
 ## my history
+
+## my passions
+
+## more
