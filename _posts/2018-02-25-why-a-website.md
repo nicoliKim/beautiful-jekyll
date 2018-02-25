@@ -2,7 +2,7 @@
 layout: post
 title: Why a Website?
 subtitle: Information about us are evrywhere, isn't it?
-bigimg: /img/data.jpg
+bigimg: /img/path.jpg
 tags: [website]
 ---
 Some of you who are reading this post might wonder why I decided to create my own website and put so much effort and time in developing it. So here's a question for you: is it a website really necessary nowadays?  
