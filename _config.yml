@@ -25,6 +25,8 @@ description: A website about me and my work!
 navbar-links:
   About Me: "aboutme"
   CV: "cv"
+  Projects:  
+     - "project"
   Resources:
     - ML - IDA group: "http://www.ml.tu-berlin.de/menue/machine_learning/"
     - Nicoli Sport: "http://nicolisport.weebly.com/"
