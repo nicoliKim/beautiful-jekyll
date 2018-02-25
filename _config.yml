@@ -25,7 +25,7 @@ description: A website about me, my life and my work!
 navbar-links:
   About Me: "aboutme"
   CV: "cv"
-  Projects:  
+  Projects:
      - Quantum Chemistry: "project"
      - TBA: "project2"
   Resources:
