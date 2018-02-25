@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Open Project 
-subtitle: KiNet  
+title: KiNet 
+subtitle: A Deep Learning architechture to predict molecular energies  
 ---
-A Deep Learning architechture to predict molecular energies based on **SchNet** the original work from Kristof T. Schutt!
+Open project under development at the Machine Learning IDA group at TU Berlin. The work is based on **SchNet** the original work from Kristof T. Schutt!
 
 ## more coming soon
