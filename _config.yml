@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-# title: 
+ title: kim A Nicoli
 
 # Short description of your site
 description: A website about me, my life and my work!
@@ -26,8 +26,8 @@ navbar-links:
   About Me: "aboutme"
   CV: "cv"
   Projects:  
-     - "project"
-     - "project2"
+     - Quantum Chemistry: "project"
+     - TBA: "project2"
   Resources:
     - ML - IDA group: "http://www.ml.tu-berlin.de/menue/machine_learning/"
     - Nicoli Sport: "http://nicolisport.weebly.com/"
@@ -68,7 +68,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Kim Nicoli
+name: Kim Nicoli
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
