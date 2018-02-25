@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Hello there, this is Kim!
 
 # Short description of your site
 description: A website about me and my work!
@@ -24,6 +24,7 @@ description: A website about me and my work!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  CV: "cv"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
@@ -93,7 +94,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   google: false
   linkedin: true
 
