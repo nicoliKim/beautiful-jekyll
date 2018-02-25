@@ -26,8 +26,8 @@ navbar-links:
   About Me: "aboutme"
   CV: "cv"
   Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - ML - IDA group: "http://www.ml.tu-berlin.de/menue/machine_learning/"
+    - Nicoli Sport: "http://nicolisport.weebly.com/"
   Author's home: "http://nicoliKim.github.io"
 
 #TODO
