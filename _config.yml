@@ -3,6 +3,7 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+
 url: "http://nicoliKim.github.io"
 baseurl: ""
 
@@ -13,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
- title: kim A Nicoli
+ title: kim Nicoli
 
 # Short description of your site
 description: A website about me, my life and my work!
@@ -45,7 +46,15 @@ avatar: "/img/kim.jpeg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#F5F5F5"# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://nicoliKim.github.io"
+baseurl: ""
+
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
