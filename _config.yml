@@ -109,7 +109,7 @@ url-pretty: "KimANicoli.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "39568269"
+google_analytics: "UA-39568269-2"
 
 # Google Tag Manager ID
 #gtm: ""
