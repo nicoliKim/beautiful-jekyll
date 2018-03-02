@@ -60,7 +60,7 @@ When needed, I held different tasks, such as bartender and handyman.
 | Language | Level | Certificate |
 | ------ | -------- | ------------ |
 | Italian | Mother Tongue - C2 | None |
-| French | Proficient User - C1 | Dalf C1 - EsaBac |
+| French | Proficient User - C1 | Dalf C1 - Baccalauréat |
 | English | Independent User - B2 | First Certificate |
 
 **N.B.** Common European Framework of Reference for Languages.
