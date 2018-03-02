@@ -8,8 +8,8 @@ subtitle: What I did so far...
 
 ### November 2017 – Present  
 ###### Technische Universität, Berlin (Germany)  
-**Ph.D. Student** in Machine Learning for Complex Systems. Supervisor: Prof. Dr. Robert-Klaus Müller.   
-Topics: Deep Learning, Quantum Chemistry.   
+**Ph.D. Student** in Machine Learning for Complex Systems. Supervisor: Prof. Dr. Robert-Klaus Müller.
+**Topics**: Deep Learning, Quantum Chemistry.   
 
 ### April 2017 – October 2017  
 ###### NORDITA, Stockholm (Sweden)  
