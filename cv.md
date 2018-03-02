@@ -4,7 +4,7 @@ title: Curriculum Vitae
 subtitle: What I did so far...
 ---
 
-<span style="background-color: #FFFF00">Education</span>
+# <span style="background-color: #e0d6f5">Education</span>
 
 ## November 2017 – Present  
 ###### Technische Universität, Berlin (Germany)  
@@ -35,7 +35,7 @@ subtitle: What I did so far...
 Double Italian-French high school diploma in scientific subjects.   
 Esame di Stato + Baccalauréat Français en Sciences - ESABAC project.  
 
-# <span style="background-color: #FFFF00">Work Experience</span>
+# <span style="background-color: #e0d6f5">Work Experience</span>
 
 ## August 2016 – Present   
 ###### Tutor & Teacher at TTS Private Tutoring School, Reg. Borgnalle, 11100 Aosta, Italy. 
@@ -53,7 +53,7 @@ Web manager for the abovementioned stores, I developed both the [website](http:/
 I managed the organization and promotion of events.  
 When needed, I held different tasks, such as bartender and handyman.  
 
-# <span style="background-color: #FFFF00">Spoken Languages</span>
+# <span style="background-color: #e0d6f5">Spoken Languages</span>
 
 | Language | Level | Certificate |
 | ------ | -------- | ------------ |
