@@ -5,7 +5,7 @@ subtitle: What I did so far...
 ---
 
 # <span style="background-color: #e0d6f5">Education</span>  
-<br/><br/>
+<br/>
 ### November 2017 – Present  
 #### Technische Universität, Berlin (Germany)  
 **Ph.D. Student** in Machine Learning for Complex Systems.  
@@ -36,7 +36,7 @@ Double Italian-French high school diploma in scientific subjects.
 Esame di Stato + Baccalauréat Français en Sciences - ESABAC project.  
 
 # <span style="background-color: #e0d6f5">Work Experience</span>  
-<br/><br/>
+<br/>
 ### August 2016 – Present   
 #### Tutor & Teacher at TTS Private Tutoring School, Reg. Borgnalle, 11100 Aosta, Italy. 
 I provide private tutoring sessions to students from primary school to university, as well as to young professional
@@ -54,7 +54,8 @@ I managed the organization and promotion of events.
 When needed, I held different tasks, such as bartender and handyman.  
 
 # <span style="background-color: #e0d6f5">Spoken Languages</span>  
-<br/><br/>
+<br/>
+
 | Language | Level | Certificate |
 | ------ | -------- | ------------ |
 | Italian | Mother Tongue - C2 | None |
