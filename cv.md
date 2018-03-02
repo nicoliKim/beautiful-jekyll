@@ -5,15 +5,14 @@ subtitle: What I did so far...
 ---
 
 # <span style="background-color: #e0d6f5">Education</span>  
-
-
+<br/><br/>
 ### November 2017 – Present  
 #### Technische Universität, Berlin (Germany)  
 **Ph.D. Student** in Machine Learning for Complex Systems.  
 **Supervisor**: Prof. Dr. Robert-Klaus Müller.  
 **Topics**: Deep Learning, Quantum Chemistry.    
 
-## December 2015 – October 2017  
+### December 2015 – October 2017  
 #### Department of Physics, University of Turin (Italy)  
 **Master’s Degree** in Physics of Complex Systems (Summa Cum Laude).  
 **Supervisor**: Dr. Miguel Onorato.  
@@ -25,7 +24,7 @@ subtitle: What I did so far...
 **Supervisor**: Dr. Ralf Eichhorn.  
 **Topics**: Brownian Motion, Stochastic Thermodynamics.  
 
-## September 2012 – December 2015
+### September 2012 – December 2015
 #### Department of Physics, University of Turin (Italy)  
 **Bachelor’s Degree** in Physics.  
 **Supervisor**: Prof. M.B. Barbaro & Dr. Marzia Nardi.  
@@ -37,8 +36,7 @@ Double Italian-French high school diploma in scientific subjects.
 Esame di Stato + Baccalauréat Français en Sciences - ESABAC project.  
 
 # <span style="background-color: #e0d6f5">Work Experience</span>  
-
-
+<br/><br/>
 ### August 2016 – Present   
 #### Tutor & Teacher at TTS Private Tutoring School, Reg. Borgnalle, 11100 Aosta, Italy. 
 I provide private tutoring sessions to students from primary school to university, as well as to young professional
@@ -56,8 +54,7 @@ I managed the organization and promotion of events.
 When needed, I held different tasks, such as bartender and handyman.  
 
 # <span style="background-color: #e0d6f5">Spoken Languages</span>  
-
-
+<br/><br/>
 | Language | Level | Certificate |
 | ------ | -------- | ------------ |
 | Italian | Mother Tongue - C2 | None |
