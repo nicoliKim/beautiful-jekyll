@@ -4,7 +4,7 @@ title: Curriculum Vitae
 subtitle: What I did so far...
 ---
 
-# <span style="background-color: #FFFF00">Education</span>
+<span style="background-color: #FFFF00">Education</span>
 
 ## November 2017 – Present  
 ###### Technische Universität, Berlin (Germany)  
