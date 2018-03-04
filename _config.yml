@@ -24,7 +24,10 @@ description: A website about me, my life and my work!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "cv"
+  CV: 
+    - Education: "education"
+    - Experience: "experience"
+    - Skills: "skills"
   Projects:
      - Quantum Chemistry: "project"
      - TBA: "project2"
