@@ -45,7 +45,7 @@ avatar: "/img/kim.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/ida_logo.png"
 
 # --- Background colour/image options --- #
 
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: "/img/ida_logo.png"
+# navbar-img: "/img/ida_logo.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
