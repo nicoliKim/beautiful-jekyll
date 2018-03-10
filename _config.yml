@@ -51,7 +51,7 @@ title-img: "/img/TU_Logo_lang_4c_rot.pdf"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#c2adeb"
+navbar-col: "#99e6ff"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
