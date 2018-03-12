@@ -20,7 +20,7 @@ Web manager for the abovementioned stores, I developed both the [website](http:/
 I managed the organization and promotion of events.  
 When needed, I held different tasks, such as bartender and handyman.  
 
-# <span style="background-color: #e0d6f5">Spoken Languages</span>  
+# <span style="background-color: #00ace6">Spoken Languages</span>  
 <br/>
 
 | Language | Level | Certificate |
