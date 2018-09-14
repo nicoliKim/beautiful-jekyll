@@ -1,9 +1,10 @@
 ---
 layout: page
 title: SchNetPack 
-bigimg: /img/SchNetPack-Logo.pdf
 subtitle: A Deep Learning toolbox for atomistic systems  
 ---
+
+![](/img/SchNetPack-Logo.pdf)
 
 SchNetPack is a ready-to-use toolbox for the development and application of deep neural networks to the prediction of potential energy surfaces and other quantum-chemical properties of molecules and materials. It contains basic building blocks of atomistic neural networks, manages their training and provides simple access to common benchmark datasets. This allows for an easy implementation and evaluation of new models.
 
