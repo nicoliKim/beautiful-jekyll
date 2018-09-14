@@ -30,10 +30,11 @@ navbar-links:
     - Skills: "skills"
   Projects:
      - Quantum Chemistry: "project"
-     - TBA: "project2"
+     - LiveBird: "project2"
   Resources:
     - ML - IDA group: "http://www.ml.tu-berlin.de/menue/machine_learning/"
     - Nicoli Sport: "http://nicolisport.weebly.com/"
+    - LiveBird: "https://livebird.co"
   #Author's home: "https://nicolikim.github.io/aboutme/"
   Contact: "contactform"
   
