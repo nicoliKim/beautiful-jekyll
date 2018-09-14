@@ -4,6 +4,10 @@ title: Experiences
 subtitle: Work experience and spoken languages
 ---
 
+## August 2018 – Present   
+#### Machine Learning Consultant @ Livebird, Berlin, Germany. 
+Member of the Livebird team, based in Berlin. This young and promising startup uses Machine Learning and AI to bring online shopping experiences on a complete new, interactive and intuitive level.
+
 ## August 2016 – Present   
 #### Tutor & Teacher at TTS Private Tutoring School, Reg. Borgnalle, 11100 Aosta, Italy. 
 I provide private tutoring sessions to students from primary school to university, as well as to young professional
