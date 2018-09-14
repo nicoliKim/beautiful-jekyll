@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SchNetPack 
-bigimg: /img/schnetpack.jpg
+bigimg: /img/logo.pdf
 subtitle: A Deep Learning toolbox for atomistic systems  
 ---
 
