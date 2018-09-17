@@ -31,6 +31,6 @@ When needed, I held different tasks, such as bartender and handyman.
 | ------ | -------- | ------------ |
 | Italian | Mother Tongue - C2 | None |
 | French | Proficient User - C1 | Dalf C1 - Baccalauréat |
-| English | Independent User - B2 | First Certificate |
+| English | Proficient User - C1 | First Certificate |
 
 **N.B.** Common European Framework of Reference for Languages.
