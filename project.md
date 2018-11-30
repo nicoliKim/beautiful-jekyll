@@ -12,4 +12,4 @@ SchNetPack aims to provide accessible atomistic neural networks that can be trai
 
 SchNetpack 1.0 will be soon available on github coming with an exhaustive [documentation](https://schnetpack.readthedocs.io/en/stable/).
 
-For further information the preprint version of our paper [SchNetPack: A Deep Learning Toolbox For Atomistic Systems](https://arxiv.org/abs/1809.01072) is already available on the arXiv. 
+For further information the preprint version of our paper [SchNetPack: A Deep Learning Toolbox For Atomistic Systems](https://arxiv.org/abs/1809.01072) is already available on the arXiv and will soon be published on the JCTC Journal. 
