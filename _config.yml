@@ -31,6 +31,7 @@ navbar-links:
   Projects:
      - Quantum Chemistry: "project"
      - LiveBird: "project2"
+     - sc-SchNet @ NeurIPS: "project3"
   Resources:
     - ML - IDA group: "http://www.ml.tu-berlin.de/menue/machine_learning/"
     - Nicoli Sport: "http://nicolisport.weebly.com/"
