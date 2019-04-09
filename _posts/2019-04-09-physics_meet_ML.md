@@ -3,7 +3,7 @@ layout: post
 title: Physics simulations meet Autoregressive Networks
 subtitle: A new research direction to merge Machine Learning into active research in Physics
 bigimg: /img/data.jpg
-tags: [website], [physics], [VAN], [generative modelling]
+tags: [website]
 ---
 
 Monte Carlo simulations in many different kind and varieties are used in many fields of theorethical physics, from statistichal physics to high energy physics passing through condensed matter physics.
