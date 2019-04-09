@@ -5,6 +5,7 @@ subtitle: A new research direction to merge Machine Learning into active researc
 bigimg: 
 tags: [website], [physics], [VAN], [generative modelling]
 ---
+
 Monte Carlo simulations in many different kind and varieties are used in many fields of theorethical physics, from statistichal physics to high energy physics passing through condensed matter physics.
 Those simulations have the aim to simulate systems on a smaller scale in order to compute observables that we could not estimate otherwise because of some mathemathical constraints.
 In the last few years, the increasing power and performances of generative models in the pletora of tasks common for the Machine Learning community, attracted
@@ -17,7 +18,8 @@ Quantum Chemistry met the benefits of Machine Learning few years ago; has the ti
 Stay tuned if you want to know where the story goes.   
 
 For the people among you which are interested in knowing more about the topic, feel free to contact me directly. 
-More will be released soon!
+More will be released soon!  
+
 Cheers,
 
 **Kim**
