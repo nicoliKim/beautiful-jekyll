@@ -2,7 +2,6 @@
 layout: post
 title: Physics simulations meet Autoregressive Networks
 subtitle: A new research direction to merge Machine Learning into active research in Physics 
-bigimg: 
 tags: [website], [physics], [VAN], [generative modelling]
 ---
 
